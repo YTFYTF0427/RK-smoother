@@ -1,0 +1,1658 @@
+{
+  "s2": {
+    "references": [
+      {
+        "nu": 0.04166666666666666,
+        "n_stages": 2,
+        "coefficients": [
+          -1.9748751048198476,
+          0.9755587986175863
+        ],
+        "alphas": [
+          0.25013483614182336
+        ],
+        "beta": 0.07899500419279389,
+        "rk_feasible": true,
+        "eta": 0.0012943188958244713,
+        "eta_lower": 0.0012943188958244704,
+        "squared_duality_gap": 2.2737367544323176e-21,
+        "dual_stationarity": 6.206335383118183e-17,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.054300816726467145,
+        "n_stages": 2,
+        "coefficients": [
+          -1.967032929903911,
+          0.9681757679290119
+        ],
+        "alphas": [
+          0.25022514393714534
+        ],
+        "beta": 0.10131026451566305,
+        "rk_feasible": true,
+        "eta": 0.002130986679621436,
+        "eta_lower": 0.002130986679621436,
+        "squared_duality_gap": 0.0,
+        "dual_stationarity": 2.7755575615628914e-17,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.07076588873187299,
+        "n_stages": 2,
+        "coefficients": [
+          -1.9567051762386043,
+          0.9586056349619418
+        ],
+        "alphas": [
+          0.25037397813806933
+        ],
+        "beta": 0.12931676498097178,
+        "rk_feasible": true,
+        "eta": 0.0034777065102550137,
+        "eta_lower": 0.0034777065102550133,
+        "squared_duality_gap": 2.1180098763735283e-21,
+        "dual_stationarity": 1.1443916996305594e-16,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.09222349330836008,
+        "n_stages": 2,
+        "coefficients": [
+          -1.9431138504113994,
+          0.9462523666615332
+        ],
+        "alphas": [
+          0.25061697513848136
+        ],
+        "beta": 0.16406966914618906,
+        "rk_feasible": true,
+        "eta": 0.005612982380002618,
+        "eta_lower": 0.005612982380002618,
+        "squared_duality_gap": -5.643265062632432e-21,
+        "dual_stationarity": 0.0,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.12018746419228402,
+        "n_stages": 2,
+        "coefficients": [
+          -1.9252760343635622,
+          0.9304113901585196
+        ],
+        "alphas": [
+          0.2510088354423264
+        ],
+        "beta": 0.20656725042641044,
+        "rk_feasible": true,
+        "eta": 0.008935359276244347,
+        "eta_lower": 0.008935359276244345,
+        "squared_duality_gap": 1.471241902519538e-20,
+        "dual_stationarity": 1.1102230246251565e-16,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.15663065918217717,
+        "n_stages": 2,
+        "coefficients": [
+          -1.9020006188943401,
+          0.9103004749911323
+        ],
+        "alphas": [
+          0.25163060483779537
+        ],
+        "beta": 0.2575684885553482,
+        "rk_feasible": true,
+        "eta": 0.01398610647268261,
+        "eta_lower": 0.01398610647268261,
+        "squared_duality_gap": 0.0,
+        "dual_stationarity": 1.1102230246251565e-16,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.20412414523193143,
+        "n_stages": 2,
+        "coefficients": [
+          -1.871939974061135,
+          0.8851386179330196
+        ],
+        "alphas": [
+          0.2525965718504964
+        ],
+        "beta": 0.3173328503076513,
+        "rk_feasible": true,
+        "eta": 0.021451227184157227,
+        "eta_lower": 0.021451227184157227,
+        "squared_duality_gap": 0.0,
+        "dual_stationarity": 1.1443916996305594e-16,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.266018587192461,
+        "n_stages": 2,
+        "coefficients": [
+          -1.833738828172592,
+          0.8542915659969104
+        ],
+        "alphas": [
+          0.25405699496194456
+        ],
+        "beta": 0.38530920263359053,
+        "rk_feasible": true,
+        "eta": 0.03212261960048377,
+        "eta_lower": 0.03212261960048377,
+        "squared_duality_gap": 0.0,
+        "dual_stationarity": 1.1102230246251565e-16,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.3466806371753172,
+        "n_stages": 2,
+        "coefficients": [
+          -1.7863133776255522,
+          0.8174798097158341
+        ],
+        "alphas": [
+          0.25618974054610266
+        ],
+        "beta": 0.4598568085518546,
+        "rk_feasible": true,
+        "eta": 0.04680042370512714,
+        "eta_lower": 0.04680042370512709,
+        "squared_duality_gap": 4.388464812298496e-18,
+        "dual_stationarity": 1.1102230246251565e-16,
+        "iterations": 9,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.45180100180492233,
+        "n_stages": 2,
+        "coefficients": [
+          -1.7292622635434143,
+          0.7750206648711471
+        ],
+        "alphas": [
+          0.2591740730715769
+        ],
+        "beta": 0.5381470477572674,
+        "rk_feasible": true,
+        "eta": 0.06613497575221262,
+        "eta_lower": 0.06613497575221255,
+        "squared_duality_gap": 9.892230478057549e-18,
+        "dual_stationarity": 2.7755575615628914e-17,
+        "iterations": 9,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.5887959215002403,
+        "n_stages": 2,
+        "coefficients": [
+          -1.663298258415786,
+          0.7280037582342191
+        ],
+        "alphas": [
+          0.2631439295407742
+        ],
+        "beta": 0.6164059320273875,
+        "rk_feasible": true,
+        "eta": 0.09043653398250819,
+        "eta_lower": 0.09043653398250817,
+        "squared_duality_gap": 3.1411465282610573e-18,
+        "dual_stationarity": 1.1443916996305594e-16,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.7673303861442214,
+        "n_stages": 2,
+        "coefficients": [
+          -1.5904688390837531,
+          0.678242631155311
+        ],
+        "alphas": [
+          0.2681234226440797
+        ],
+        "beta": 0.6905415523959068,
+        "rk_feasible": true,
+        "eta": 0.11951001891687074,
+        "eta_lower": 0.11951001891687067,
+        "squared_duality_gap": 1.775339238219389e-17,
+        "dual_stationarity": 1.3877787807814457e-16,
+        "iterations": 15,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.9999999999999994,
+        "n_stages": 2,
+        "coefficients": [
+          -1.5140525227700241,
+          0.6281050455400478
+        ],
+        "alphas": [
+          0.273999897098195
+        ],
+        "beta": 0.7570262613850118,
+        "rk_feasible": true,
+        "eta": 0.1525802864372068,
+        "eta_lower": 0.15258028643720675,
+        "squared_duality_gap": 1.0408340855860829e-17,
+        "dual_stationarity": 5.551115123125783e-17,
+        "iterations": 11,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 1.303219601435211,
+        "n_stages": 2,
+        "coefficients": [
+          -1.4378880113581072,
+          0.5799481650589862
+        ],
+        "alphas": [
+          0.28050399647238833
+        ],
+        "beta": 0.8135932152986639,
+        "rk_feasible": true,
+        "eta": 0.18835092540982173,
+        "eta_lower": 0.1883509254098211,
+        "squared_duality_gap": 2.5035826478390867e-16,
+        "dual_stationarity": 2.7755575615628914e-17,
+        "iterations": 9,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 1.6983813295649524,
+        "n_stages": 2,
+        "coefficients": [
+          -1.3656136428968229,
+          0.5357497377764144
+        ],
+        "alphas": [
+          0.2872805829716678
+        ],
+        "beta": 0.8595274096671427,
+        "rk_feasible": true,
+        "eta": 0.22519479524016453,
+        "eta_lower": 0.2251947952401641,
+        "squared_duality_gap": 2.0908313853668714e-16,
+        "dual_stationarity": 8.326672684688674e-17,
+        "iterations": 9,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 2.2133638394006425,
+        "n_stages": 2,
+        "coefficients": [
+          -1.2999872435923088,
+          0.49680956847008917
+        ],
+        "alphas": [
+          0.2939759281786443
+        ],
+        "beta": 0.8954307387693806,
+        "rk_feasible": true,
+        "eta": 0.2614250778584188,
+        "eta_lower": 0.26142507785841873,
+        "squared_duality_gap": 3.74863470747444e-17,
+        "dual_stationarity": 8.326672684688674e-17,
+        "iterations": 9,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 2.8844991406148157,
+        "n_stages": 2,
+        "coefficients": [
+          -1.2425742245138545,
+          0.46363806122208817
+        ],
+        "alphas": [
+          0.3002855264563756
+        ],
+        "beta": 0.9226940599073084,
+        "rk_feasible": true,
+        "eta": 0.295563678823812,
+        "eta_lower": 0.29556367882381196,
+        "squared_duality_gap": 5.0634091918773546e-17,
+        "dual_stationarity": 2.7755575615628914e-17,
+        "iterations": 12,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 3.759135820372251,
+        "n_stages": 2,
+        "coefficients": [
+          -1.1938483685343888,
+          0.43614488327914425
+        ],
+        "alphas": [
+          0.30600776103523286
+        ],
+        "beta": 0.9429943451161187,
+        "rk_feasible": true,
+        "eta": 0.326529006810933,
+        "eta_lower": 0.32652900681093294,
+        "squared_duality_gap": 4.3216530929206143e-17,
+        "dual_stationarity": 2.220446049250313e-16,
+        "iterations": 12,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 4.898979485566356,
+        "n_stages": 2,
+        "coefficients": [
+          -1.1534725133695702,
+          0.4138349045159543
+        ],
+        "alphas": [
+          0.3110374036824893
+        ],
+        "beta": 0.9579348756829346,
+        "rk_feasible": true,
+        "eta": 0.35370474250197026,
+        "eta_lower": 0.3537047425019701,
+        "squared_duality_gap": 7.921664203160309e-17,
+        "dual_stationarity": 2.423651445728339e-16,
+        "iterations": 11,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 6.384446092619062,
+        "n_stages": 2,
+        "coefficients": [
+          -1.1206280672879343,
+          0.396018534596012
+        ],
+        "alphas": [
+          0.31534977187362795
+        ],
+        "beta": 0.9688728708612139,
+        "rk_feasible": true,
+        "eta": 0.3769015781321098,
+        "eta_lower": 0.37690157813210967,
+        "squared_duality_gap": 3.1017117390848686e-17,
+        "dual_stationarity": 6.938893903907228e-17,
+        "iterations": 17,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 8.320335292207615,
+        "n_stages": 2,
+        "coefficients": [
+          -1.0942821594336247,
+          0.38194448211217036
+        ],
+        "alphas": [
+          0.3189639512758644
+        ],
+        "beta": 0.9768741343866595,
+        "rk_feasible": true,
+        "eta": 0.39625545777148513,
+        "eta_lower": 0.39625545777148513,
+        "squared_duality_gap": 1.762736533186751e-17,
+        "dual_stationarity": 4.443059973708341e-16,
+        "iterations": 12,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 10.843224043318127,
+        "n_stages": 2,
+        "coefficients": [
+          -1.0733737857096397,
+          0.37092138889483994
+        ],
+        "alphas": [
+          0.3219436830634383
+        ],
+        "beta": 0.9827418951210942,
+        "rk_feasible": true,
+        "eta": 0.41210879243895365,
+        "eta_lower": 0.41210879243895365,
+        "squared_duality_gap": 1.9503124056457718e-17,
+        "dual_stationarity": 1.0408340855860843e-16,
+        "iterations": 13,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 14.131102116005763,
+        "n_stages": 2,
+        "coefficients": [
+          -1.056914039268929,
+          0.3623378364316303
+        ],
+        "alphas": [
+          0.3243652740007495
+        ],
+        "beta": 0.9870636059583956,
+        "rk_feasible": true,
+        "eta": 0.4249064016740897,
+        "eta_lower": 0.42490640167408583,
+        "squared_duality_gap": 3.2726821429084187e-15,
+        "dual_stationarity": 4.494775313252277e-16,
+        "iterations": 13,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 18.41592926746132,
+        "n_stages": 2,
+        "coefficients": [
+          -1.0440350801439835,
+          0.3556811441298394
+        ],
+        "alphas": [
+          0.32631020754737067
+        ],
+        "beta": 0.9902629909608169,
+        "rk_feasible": true,
+        "eta": 0.43511933568969513,
+        "eta_lower": 0.4351193356896874,
+        "squared_duality_gap": 6.6718844473573805e-15,
+        "dual_stationarity": 4.484587321511725e-16,
+        "iterations": 11,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 23.999999999999993,
+        "n_stages": 2,
+        "coefficients": [
+          -1.034004700219756,
+          0.3505338252274608
+        ],
+        "alphas": [
+          0.327857336468255
+        ],
+        "beta": 0.9926445122109658,
+        "rk_feasible": true,
+        "eta": 0.4431969304196348,
+        "eta_lower": 0.44319693041963476,
+        "squared_duality_gap": 4.71482053399086e-17,
+        "dual_stationarity": 4.489550152768946e-16,
+        "iterations": 15,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      }
+    ],
+    "eta_network": [
+      0.0019201454191266156,
+      0.002720278077489531,
+      0.0036596383310477988,
+      0.00589446390989945,
+      0.009815482710974321,
+      0.015061064795064971,
+      0.02201906591809355,
+      0.03267084824893478,
+      0.04780254943491212,
+      0.06763721199661786,
+      0.09210439506093963,
+      0.12071652691959175,
+      0.15289834754597942,
+      0.18846519713949625,
+      0.22536088941794147,
+      0.26158386898214087,
+      0.29562757610573637,
+      0.3265683244122642,
+      0.3538865242844932,
+      0.37713124923555774,
+      0.39664337094211616,
+      0.41347018275511266,
+      0.4274173741478105,
+      0.43763780824534937,
+      0.44400052543450264
+    ],
+    "eta_dense_reference": [
+      0.0012943188960146384,
+      0.0021309866802890344,
+      0.003477706512551474,
+      0.005612982387697497,
+      0.008935359301047035,
+      0.013986106549105282,
+      0.021451227406482483,
+      0.03212262020216213,
+      0.0468004251819054,
+      0.06613497900059809,
+      0.09043654034648664,
+      0.11951002964318111,
+      0.15258030245304063,
+      0.18835094611648445,
+      0.225194818579073,
+      0.261425101457226,
+      0.2955637002548209,
+      0.3265290245884937,
+      0.35370475619365854,
+      0.37690158823792935,
+      0.39625546476686146,
+      0.41210879710550746,
+      0.42490640469895585,
+      0.43511933760733523,
+      0.44319693161469864
+    ],
+    "eta_dense_network": [
+      0.0019201454191266156,
+      0.002720278077489531,
+      0.0036596383310477988,
+      0.00589446390989945,
+      0.009815482710974321,
+      0.015061064795064971,
+      0.02201906591809355,
+      0.03267084824893478,
+      0.04780254943491212,
+      0.06763721199661786,
+      0.09210439506093963,
+      0.12071652691959175,
+      0.15289834754597942,
+      0.18846520876506045,
+      0.22536089104014262,
+      0.26158389794102815,
+      0.29562758146114837,
+      0.32656833240905947,
+      0.3538865280159102,
+      0.3771312520173175,
+      0.39664337519081705,
+      0.41347018704324756,
+      0.42741737419483233,
+      0.4376378091413884,
+      0.4440005307892742
+    ],
+    "median_relative_gap": 0.005909471977423308,
+    "max_relative_gap": 0.48351803046458475,
+    "max_squared_duality_gap": 6.6718844473573805e-15,
+    "max_frequency_refinement_change": 2.3598807186164805e-08,
+    "max_network_frequency_refinement_change": 2.895888728815521e-08,
+    "rank_one_power_max_error": 1.6653345369377348e-16,
+    "multilevel": [
+      {
+        "nu": 1.0,
+        "norm_v": 0.15888348132793317,
+        "bound": 0.18640319869389138,
+        "levels": [
+          {
+            "level": 0,
+            "eta": 0.15289832009544568,
+            "kappa": 0.4052426199830481,
+            "bound": 0.18640319869389138
+          },
+          {
+            "level": 1,
+            "eta": 0.07647441212062463,
+            "kappa": 0.20328404029191446,
+            "bound": 0.08267856574376917
+          },
+          {
+            "level": 2,
+            "eta": 0.02976239414960903,
+            "kappa": 0.07165642671210311,
+            "bound": 0.030519629648424057
+          },
+          {
+            "level": 3,
+            "eta": 0.010504949454874636,
+            "kappa": 0.01992256265170156,
+            "bound": 0.010567586657054503
+          },
+          {
+            "level": 4,
+            "eta": 0.0031440333894253553,
+            "kappa": 0.008015849411341753,
+            "bound": 0.0031440333894253553
+          }
+        ]
+      },
+      {
+        "nu": 3.0,
+        "norm_v": 0.3604206047599441,
+        "bound": 0.5019860507160978,
+        "levels": [
+          {
+            "level": 0,
+            "eta": 0.3004247695136456,
+            "kappa": 0.7192428910636739,
+            "bound": 0.5019860507160978
+          },
+          {
+            "level": 1,
+            "eta": 0.20802733201210113,
+            "kappa": 0.531857601049014,
+            "bound": 0.2802409084702489
+          },
+          {
+            "level": 2,
+            "eta": 0.11810203901181988,
+            "kappa": 0.31626418911142307,
+            "bound": 0.13577614819402162
+          },
+          {
+            "level": 3,
+            "eta": 0.05318590981138794,
+            "kappa": 0.13795103962279345,
+            "bound": 0.05588400391412942
+          },
+          {
+            "level": 4,
+            "eta": 0.01955834555592343,
+            "kappa": 0.04227260325384634,
+            "bound": 0.01955834555592343
+          }
+        ]
+      },
+      {
+        "nu": 6.0,
+        "norm_v": 0.4936864829779077,
+        "bound": 0.7962498405577796,
+        "levels": [
+          {
+            "level": 0,
+            "eta": 0.37205626374098744,
+            "kappa": 0.8455843366317743,
+            "bound": 0.7962498405577796
+          },
+          {
+            "level": 1,
+            "eta": 0.3004224652950616,
+            "kappa": 0.7192428910636738,
+            "bound": 0.501657325520583
+          },
+          {
+            "level": 2,
+            "eta": 0.20802733201210113,
+            "kappa": 0.531857601049014,
+            "bound": 0.27978706877160664
+          },
+          {
+            "level": 3,
+            "eta": 0.11810203901181987,
+            "kappa": 0.31626418911142296,
+            "bound": 0.13492283765047175
+          },
+          {
+            "level": 4,
+            "eta": 0.05318590981138794,
+            "kappa": 0.13795103962279345,
+            "bound": 0.05318590981138794
+          }
+        ]
+      },
+      {
+        "nu": 12.0,
+        "norm_v": 0.6462551459642274,
+        "bound": 1.1503207305415601,
+        "levels": [
+          {
+            "level": 0,
+            "eta": 0.4191918264535357,
+            "kappa": 0.9246258123285058,
+            "bound": 1.1503207305415601
+          },
+          {
+            "level": 1,
+            "eta": 0.37205566468512025,
+            "kappa": 0.8455843366317746,
+            "bound": 0.7907294976405712
+          },
+          {
+            "level": 2,
+            "eta": 0.3004224652950615,
+            "kappa": 0.7192428910636738,
+            "bound": 0.49512959833570136
+          },
+          {
+            "level": 3,
+            "eta": 0.20789777026557854,
+            "kappa": 0.5318576010490138,
+            "bound": 0.2707112374134021
+          },
+          {
+            "level": 4,
+            "eta": 0.11810203901181988,
+            "kappa": 0.3162641891114231,
+            "bound": 0.11810203901181988
+          }
+        ]
+      },
+      {
+        "nu": 24.0,
+        "norm_v": 0.7736019600386979,
+        "bound": 1.5398095408723096,
+        "levels": [
+          {
+            "level": 0,
+            "eta": 0.4440001089861357,
+            "kappa": 0.9828393077074562,
+            "bound": 1.5398095408723096
+          },
+          {
+            "level": 1,
+            "eta": 0.4191917665068646,
+            "kappa": 0.924625812328506,
+            "bound": 1.114942619096329
+          },
+          {
+            "level": 2,
+            "eta": 0.3720556646851202,
+            "kappa": 0.8455843366317746,
+            "bound": 0.7524674774515967
+          },
+          {
+            "level": 3,
+            "eta": 0.30035494298682136,
+            "kappa": 0.7192428910636739,
+            "bound": 0.44988039192137247
+          },
+          {
+            "level": 4,
+            "eta": 0.20789284231008653,
+            "kappa": 0.5318576010490139,
+            "bound": 0.20789284231008653
+          }
+        ]
+      }
+    ]
+  },
+  "s3": {
+    "references": [
+      {
+        "nu": 0.04166666666666666,
+        "n_stages": 3,
+        "coefficients": [
+          -2.974875416133415,
+          2.9504345187758396,
+          -0.9755591033338271
+        ],
+        "alphas": [
+          0.11114727578632778,
+          0.3333868110532684
+        ],
+        "beta": 0.11899501664533658,
+        "rk_feasible": true,
+        "eta": 5.1772537133615735e-05,
+        "eta_lower": 5.17725371336157e-05,
+        "squared_duality_gap": 3.183231456205243e-24,
+        "dual_stationarity": 5.551115123125783e-17,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.054300816726467145,
+        "n_stages": 3,
+        "coefficients": [
+          -2.9670338009097375,
+          2.935210412841658,
+          -0.9681766150592039
+        ],
+        "alphas": [
+          0.11117134380947737,
+          0.3334219995364211
+        ],
+        "beta": 0.15281441130310025,
+        "rk_feasible": true,
+        "eta": 0.00010975359019701716,
+        "eta_lower": 0.00010975359019701714,
+        "squared_duality_gap": 2.0723406343227834e-24,
+        "dual_stationarity": 8.326672684688674e-17,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.07076588873187299,
+        "n_stages": 3,
+        "coefficients": [
+          -2.956707579494707,
+          2.9153155181753507,
+          -0.958607952488947
+        ],
+        "alphas": [
+          0.11121083166521512,
+          0.3334792492748238
+        ],
+        "beta": 0.19540596295144175,
+        "rk_feasible": true,
+        "eta": 0.00022983415901893617,
+        "eta_lower": 0.00022983415901893612,
+        "squared_duality_gap": 1.8501922272250262e-23,
+        "dual_stationarity": 6.206335383118183e-17,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.09222349330836008,
+        "n_stages": 3,
+        "coefficients": [
+          -2.943120351884875,
+          2.8893788571314776,
+          -0.9462585642809892
+        ],
+        "alphas": [
+          0.11127492513095238,
+          0.333571122762292
+        ],
+        "beta": 0.24850668543633275,
+        "rk_feasible": true,
+        "eta": 0.00047392351764391987,
+        "eta_lower": 0.00047392351764391965,
+        "squared_duality_gap": 2.0116877141952854e-22,
+        "dual_stationarity": 1.1443916996305594e-16,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.12018746419228402,
+        "n_stages": 3,
+        "coefficients": [
+          -2.9252933465543993,
+          2.8557207692931126,
+          -0.9304276650605273
+        ],
+        "alphas": [
+          0.11137749645868418,
+          0.3337158954826573
+        ],
+        "beta": 0.3138613853302174,
+        "rk_feasible": true,
+        "eta": 0.0009586296066897153,
+        "eta_lower": 0.000958629606689715,
+        "squared_duality_gap": 8.468198269519764e-22,
+        "dual_stationarity": 2.7755575615628914e-17,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.15663065918217717,
+        "n_stages": 3,
+        "coefficients": [
+          -2.9020450835102753,
+          2.8123856380958436,
+          -0.9103414969856835
+        ],
+        "alphas": [
+          0.11153863199335991,
+          0.33393855344989193
+        ],
+        "beta": 0.3929942811026733,
+        "rk_feasible": true,
+        "eta": 0.0018937594798337197,
+        "eta_lower": 0.0018937594798337182,
+        "squared_duality_gap": 5.477629706961564e-21,
+        "dual_stationarity": 1.5700924586837752e-16,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.20412414523193143,
+        "n_stages": 3,
+        "coefficients": [
+          -2.8720485385549397,
+          2.7572813791183153,
+          -0.8852362511358605
+        ],
+        "alphas": [
+          0.11178571966051838,
+          0.3342701045441942
+        ],
+        "beta": 0.486872101451154,
+        "rk_feasible": true,
+        "eta": 0.003635657234620939,
+        "eta_lower": 0.003635657234620938,
+        "squared_duality_gap": 5.269615287113708e-21,
+        "dual_stationarity": 1.3877787807814457e-16,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.266018587192461,
+        "n_stages": 3,
+        "coefficients": [
+          -2.8339875973919364,
+          2.6884840803184695,
+          -0.854507767249202
+        ],
+        "alphas": [
+          0.11215292385784127,
+          0.33474305751321143
+        ],
+        "beta": 0.595483655931943,
+        "rk_feasible": true,
+        "eta": 0.0067474382571161605,
+        "eta_lower": 0.006747438257116133,
+        "squared_duality_gap": 3.7265438965099867e-19,
+        "dual_stationarity": 1.1443916996305594e-16,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.3466806371753172,
+        "n_stages": 3,
+        "coefficients": [
+          -2.7868395127371137,
+          2.6047245207075838,
+          -0.8179182712857296
+        ],
+        "alphas": [
+          0.112677227400438,
+          0.3353805553410232
+        ],
+        "beta": 0.7174256993904309,
+        "rk_feasible": true,
+        "eta": 0.012042501650560599,
+        "eta_lower": 0.01204250165056059,
+        "squared_duality_gap": 2.262028599840926e-19,
+        "dual_stationarity": 1.1443916996305594e-16,
+        "iterations": 9,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.45180100180492233,
+        "n_stages": 3,
+        "coefficients": [
+          -2.7302657445986758,
+          2.505993604130299,
+          -0.7758134003694345
+        ],
+        "alphas": [
+          0.11338938461041087,
+          0.33617864143833764
+        ],
+        "beta": 0.8496596965216129,
+        "rk_feasible": true,
+        "eta": 0.020570410847015472,
+        "eta_lower": 0.020570410847015417,
+        "squared_duality_gap": 2.3194160215711866e-18,
+        "dual_stationarity": 1.2412670766236366e-16,
+        "iterations": 13,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.5887959215002403,
+        "n_stages": 3,
+        "coefficients": [
+          -2.664976605388536,
+          2.394028826505105,
+          -0.7292390874720747
+        ],
+        "alphas": [
+          0.11430024534170566,
+          0.33708744215497555
+        ],
+        "beta": 0.9876204583057195,
+        "rk_feasible": true,
+        "eta": 0.03349972331120381,
+        "eta_lower": 0.0334997233112038,
+        "squared_duality_gap": 2.876009327917297e-19,
+        "dual_stationarity": 1.2412670766236366e-16,
+        "iterations": 11,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.7673303861442214,
+        "n_stages": 3,
+        "coefficients": [
+          -2.592945859251282,
+          2.2725314175409292,
+          -0.6799304868184044
+        ],
+        "alphas": [
+          0.11538813919401351,
+          0.33800490173005227
+        ],
+        "beta": 1.1257918513873064,
+        "rk_feasible": true,
+        "eta": 0.05187751286503457,
+        "eta_lower": 0.05187751286503455,
+        "squared_duality_gap": 1.8592515444358515e-18,
+        "dual_stationarity": 2.7755575615628914e-17,
+        "iterations": 8,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 0.9999999999999994,
+        "n_stages": 3,
+        "coefficients": [
+          -2.502988299877153,
+          2.1260974199551055,
+          -0.6212427517039063
+        ],
+        "alphas": [
+          0.11673991014525333,
+          0.33936380565827096
+        ],
+        "beta": 1.251494149938576,
+        "rk_feasible": true,
+        "eta": 0.07626818777897522,
+        "eta_lower": 0.07626818777897516,
+        "squared_duality_gap": 7.806255641895617e-18,
+        "dual_stationarity": 1.2412670766236366e-16,
+        "iterations": 9,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 1.303219601435211,
+        "n_stages": 3,
+        "coefficients": [
+          -2.3923475757883397,
+          1.9553213437467103,
+          -0.5540293710219935
+        ],
+        "alphas": [
+          0.1184378106716089,
+          0.3416406873000794
+        ],
+        "beta": 1.3536504518590409,
+        "rk_feasible": true,
+        "eta": 0.10618834653099875,
+        "eta_lower": 0.10618834653099873,
+        "squared_duality_gap": 1.8216870349397583e-18,
+        "dual_stationarity": 2.9893669801409083e-16,
+        "iterations": 10,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 1.6983813295649524,
+        "n_stages": 3,
+        "coefficients": [
+          -2.2769092496049987,
+          1.7862318296941226,
+          -0.4896016297465511
+        ],
+        "alphas": [
+          0.12038137774152999,
+          0.34454534067726483
+        ],
+        "beta": 1.433103659691547,
+        "rk_feasible": true,
+        "eta": 0.14025498664706482,
+        "eta_lower": 0.1402549866470648,
+        "squared_duality_gap": 6.90242238700151e-18,
+        "dual_stationarity": 2.482534153247273e-16,
+        "iterations": 15,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 2.2133638394006425,
+        "n_stages": 3,
+        "coefficients": [
+          -2.162212353863006,
+          1.626851701908596,
+          -0.43085545775988865
+        ],
+        "alphas": [
+          0.12248567173401637,
+          0.3479775910057576
+        ],
+        "beta": 1.4893310799309811,
+        "rk_feasible": true,
+        "eta": 0.17643512698912672,
+        "eta_lower": 0.17643512698912667,
+        "squared_duality_gap": 1.778520757800706e-17,
+        "dual_stationarity": 9.71445146547012e-17,
+        "iterations": 14,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 2.8844991406148157,
+        "n_stages": 3,
+        "coefficients": [
+          -2.0523530624243342,
+          1.4823173136792354,
+          -0.3794830417116778
+        ],
+        "alphas": [
+          0.1247380980909939,
+          0.35191439651090733
+        ],
+        "beta": 1.5240087410250251,
+        "rk_feasible": true,
+        "eta": 0.21250670365227592,
+        "eta_lower": 0.21250670365227584,
+        "squared_duality_gap": 2.791989586089376e-17,
+        "dual_stationarity": 4.847302891456678e-16,
+        "iterations": 13,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 3.759135820372251,
+        "n_stages": 3,
+        "coefficients": [
+          -1.952732129739172,
+          1.3570592120168132,
+          -0.3362829346409263
+        ],
+        "alphas": [
+          0.12690050756928176,
+          0.3558880891500176
+        ],
+        "beta": 1.5424197950123113,
+        "rk_feasible": true,
+        "eta": 0.24654281165445924,
+        "eta_lower": 0.2465428116544593,
+        "squared_duality_gap": -2.6963094795419033e-17,
+        "dual_stationarity": 2.220446049250313e-16,
+        "iterations": 15,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 4.898979485566356,
+        "n_stages": 3,
+        "coefficients": [
+          -1.865198631521269,
+          1.2515977610825557,
+          -0.30097744116265635
+        ],
+        "alphas": [
+          0.1289270601698018,
+          0.35976143039531927
+        ],
+        "beta": 1.549008579312231,
+        "rk_feasible": true,
+        "eta": 0.27720785037421997,
+        "eta_lower": 0.27720785037421986,
+        "squared_duality_gap": 6.374126651292748e-17,
+        "dual_stationarity": 3.3306690738754696e-16,
+        "iterations": 16,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 6.384446092619062,
+        "n_stages": 3,
+        "coefficients": [
+          -1.7911833257609122,
+          1.165329534455044,
+          -0.27275893243984406
+        ],
+        "alphas": [
+          0.13067430254142928,
+          0.3632191000654201
+        ],
+        "beta": 1.5486216896821758,
+        "rk_feasible": true,
+        "eta": 0.30382415643074984,
+        "eta_lower": 0.3038241564307499,
+        "squared_duality_gap": -4.6370526734477236e-17,
+        "dual_stationarity": 2.7755575615628914e-16,
+        "iterations": 15,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 8.320335292207615,
+        "n_stages": 3,
+        "coefficients": [
+          -1.7295748223092773,
+          1.0959293448008007,
+          -0.2506191723704976
+        ],
+        "alphas": [
+          0.1322185472566287,
+          0.3663564539334443
+        ],
+        "beta": 1.5440048006218268,
+        "rk_feasible": true,
+        "eta": 0.32625593080807974,
+        "eta_lower": 0.3262559308080798,
+        "squared_duality_gap": -1.404772474534096e-17,
+        "dual_stationarity": 2.220446049250313e-16,
+        "iterations": 18,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 10.843224043318127,
+        "n_stages": 3,
+        "coefficients": [
+          -1.6799091629698282,
+          1.0410858855776288,
+          -0.23336649832583367
+        ],
+        "alphas": [
+          0.13343389150589588,
+          0.3689053560907905
+        ],
+        "beta": 1.5380635678155574,
+        "rk_feasible": true,
+        "eta": 0.3447375889374694,
+        "eta_lower": 0.3447375889374689,
+        "squared_duality_gap": 3.4332106445409975e-16,
+        "dual_stationarity": 2.220446049250313e-16,
+        "iterations": 16,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 14.131102116005763,
+        "n_stages": 3,
+        "coefficients": [
+          -1.6398251054316069,
+          0.9982465756911711,
+          -0.22021681577113417
+        ],
+        "alphas": [
+          0.13452875358692906,
+          0.3712297448811918
+        ],
+        "beta": 1.5314506398533863,
+        "rk_feasible": true,
+        "eta": 0.35970568062393676,
+        "eta_lower": 0.3597056806239367,
+        "squared_duality_gap": 1.8415481291394347e-17,
+        "dual_stationarity": 6.684427777288335e-16,
+        "iterations": 17,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 18.41592926746132,
+        "n_stages": 3,
+        "coefficients": [
+          -1.6084637892145772,
+          0.9649404836681998,
+          -0.21003092497015963
+        ],
+        "alphas": [
+          0.13532294147301419,
+          0.37297347849486173
+        ],
+        "beta": 1.5256213062688775,
+        "rk_feasible": true,
+        "eta": 0.3716692814281537,
+        "eta_lower": 0.37166928142815364,
+        "squared_duality_gap": 8.083937964460137e-17,
+        "dual_stationarity": 5.688200336284365e-16,
+        "iterations": 17,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      },
+      {
+        "nu": 23.999999999999993,
+        "n_stages": 3,
+        "coefficients": [
+          -1.5840089406820517,
+          0.939035900891364,
+          -0.20212243510532713
+        ],
+        "alphas": [
+          0.13588599441398602,
+          0.3742544209651005
+        ],
+        "beta": 1.5206485830547696,
+        "rk_feasible": true,
+        "eta": 0.38113979892471556,
+        "eta_lower": 0.38113979892471556,
+        "squared_duality_gap": 0.0,
+        "dual_stationarity": 7.216449660063518e-16,
+        "iterations": 16,
+        "n_theta": 513,
+        "optimizer_success": true,
+        "message": "Optimization terminated successfully"
+      }
+    ],
+    "eta_network": [
+      0.0004662526415624328,
+      0.0006349034580497969,
+      0.0008022223861220038,
+      0.0011825865181388938,
+      0.0017909834378225717,
+      0.0023007729040261985,
+      0.004124392359955436,
+      0.008231517119303266,
+      0.014154662135988552,
+      0.023158851207896385,
+      0.03679552232613274,
+      0.05629079635386158,
+      0.08202138911793093,
+      0.11323310216190591,
+      0.1481154887249858,
+      0.1842548555045786,
+      0.21930689142802898,
+      0.251595780469413,
+      0.28037510325169424,
+      0.3056467577367094,
+      0.3276352434676311,
+      0.3463044265245444,
+      0.361356713075988,
+      0.3728465624789945,
+      0.3816942116024736
+    ],
+    "eta_dense_reference": [
+      5.177253713415902e-05,
+      0.00010975359019921431,
+      0.0002298341590311013,
+      0.0004739235177109373,
+      0.000958629607042232,
+      0.0018937594815686995,
+      0.0036356572423985895,
+      0.006747438288294233,
+      0.012042501757678804,
+      0.020570411155207826,
+      0.03349972401820683,
+      0.05187751416968582,
+      0.07626821565817464,
+      0.10618845276792088,
+      0.14025508209593787,
+      0.17643548094011569,
+      0.2125072283583206,
+      0.24654306911005058,
+      0.2772086719555862,
+      0.30382420447491093,
+      0.3262559308080799,
+      0.3447383621577475,
+      0.35970597795752823,
+      0.37167050738828933,
+      0.3811410581659993
+    ],
+    "eta_dense_network": [
+      0.0004662526725708018,
+      0.0006349041076951371,
+      0.000802223359135786,
+      0.0011825865376307954,
+      0.0017909834378225717,
+      0.0023007729040261985,
+      0.004124394966393184,
+      0.008231517938463783,
+      0.014154665901347707,
+      0.023158865134731782,
+      0.036795609798610796,
+      0.056290964428386714,
+      0.08202138911793093,
+      0.113233109763843,
+      0.14811548879762348,
+      0.1842548890539203,
+      0.21930707632834726,
+      0.251595796104597,
+      0.2803755796324466,
+      0.3056468814563259,
+      0.32763607666236055,
+      0.34630457814750465,
+      0.361356713075988,
+      0.3728465624789945,
+      0.38169446618732095
+    ],
+    "median_relative_gap": 0.07543382773992824,
+    "max_relative_gap": 8.005790857015901,
+    "max_squared_duality_gap": 3.4332106445409975e-16,
+    "max_frequency_refinement_change": 1.2592412837464373e-06,
+    "max_network_frequency_refinement_change": 8.331947294326625e-07,
+    "rank_one_power_max_error": 1.6653345369377348e-16,
+    "multilevel": [
+      {
+        "nu": 1.0,
+        "norm_v": 0.08174629880189925,
+        "bound": 0.08868095161021339,
+        "levels": [
+          {
+            "level": 0,
+            "eta": 0.08201334796276165,
+            "kappa": 0.23557776842610978,
+            "bound": 0.08868095161021339
+          },
+          {
+            "level": 1,
+            "eta": 0.027750020597497413,
+            "kappa": 0.077187871565864,
+            "bound": 0.02830319555193117
+          },
+          {
+            "level": 2,
+            "eta": 0.007134997339024368,
+            "kappa": 0.016830376479636165,
+            "bound": 0.007166604587117515
+          },
+          {
+            "level": 3,
+            "eta": 0.0018752778423549532,
+            "kappa": 0.003863655020896259,
+            "bound": 0.0018779881799667662
+          },
+          {
+            "level": 4,
+            "eta": 0.0007014957591074805,
+            "kappa": 0.002023679507145479,
+            "bound": 0.0007014957591074805
+          }
+        ]
+      },
+      {
+        "nu": 3.0,
+        "norm_v": 0.2251788204610421,
+        "bound": 0.31453157299897405,
+        "levels": [
+          {
+            "level": 0,
+            "eta": 0.22429100091096135,
+            "kappa": 0.5924375210959727,
+            "bound": 0.31453157299897405
+          },
+          {
+            "level": 1,
+            "eta": 0.13144511045247853,
+            "kappa": 0.36669213230892383,
+            "bound": 0.15232082519195148
+          },
+          {
+            "level": 2,
+            "eta": 0.054333994784758664,
+            "kappa": 0.15701913136337198,
+            "bound": 0.05692981359601673
+          },
+          {
+            "level": 3,
+            "eta": 0.016399384737707638,
+            "kappa": 0.042575886521831426,
+            "bound": 0.016531863274997033
+          },
+          {
+            "level": 4,
+            "eta": 0.00311158611392546,
+            "kappa": 0.008610312985326728,
+            "bound": 0.00311158611392546
+          }
+        ]
+      },
+      {
+        "nu": 6.0,
+        "norm_v": 0.3309517778737352,
+        "bound": 0.5402684556280651,
+        "levels": [
+          {
+            "level": 0,
+            "eta": 0.3000198098358167,
+            "kappa": 0.7640495333574634,
+            "bound": 0.5402684556280651
+          },
+          {
+            "level": 1,
+            "eta": 0.22429100091096132,
+            "kappa": 0.5924375210959727,
+            "bound": 0.31444119170719687
+          },
+          {
+            "level": 2,
+            "eta": 0.13144511045247856,
+            "kappa": 0.3666921323089237,
+            "bound": 0.15216826684012735
+          },
+          {
+            "level": 3,
+            "eta": 0.05393875711202126,
+            "kappa": 0.157019131363372,
+            "bound": 0.05651377425842985
+          },
+          {
+            "level": 4,
+            "eta": 0.016399384737707638,
+            "kappa": 0.04257588652183142,
+            "bound": 0.016399384737707638
+          }
+        ]
+      },
+      {
+        "nu": 12.0,
+        "norm_v": 0.42520774890058083,
+        "bound": 0.8236380802637739,
+        "levels": [
+          {
+            "level": 0,
+            "eta": 0.35249520693902003,
+            "kappa": 0.8729060470562069,
+            "bound": 0.8236380802637739
+          },
+          {
+            "level": 1,
+            "eta": 0.30001980983581666,
+            "kappa": 0.7640495333574635,
+            "bound": 0.5397406455295374
+          },
+          {
+            "level": 2,
+            "eta": 0.22429100091096132,
+            "kappa": 0.5924375210959726,
+            "bound": 0.313750385580782
+          },
+          {
+            "level": 3,
+            "eta": 0.13144511045247856,
+            "kappa": 0.36669213230892383,
+            "bound": 0.15100222636865807
+          },
+          {
+            "level": 4,
+            "eta": 0.05333388473059302,
+            "kappa": 0.15701913136337206,
+            "bound": 0.05333388473059302
+          }
+        ]
+      },
+      {
+        "nu": 24.0,
+        "norm_v": 0.5065334825996213,
+        "bound": 1.143342420515699,
+        "levels": [
+          {
+            "level": 0,
+            "eta": 0.3816871918804156,
+            "kappa": 0.9360595917546214,
+            "bound": 1.143342420515699
+          },
+          {
+            "level": 1,
+            "eta": 0.35249520693902003,
+            "kappa": 0.8729060470562073,
+            "bound": 0.813682414393702
+          },
+          {
+            "level": 2,
+            "eta": 0.29932211257538877,
+            "kappa": 0.7640495333574634,
+            "bound": 0.5283354480244375
+          },
+          {
+            "level": 3,
+            "eta": 0.22429100091096124,
+            "kappa": 0.5924375210959725,
+            "bound": 0.29973624150085576
+          },
+          {
+            "level": 4,
+            "eta": 0.12734716810360955,
+            "kappa": 0.36669213230892383,
+            "bound": 0.12734716810360955
+          }
+        ]
+      }
+    ]
+  }
+}
